@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318376195419",
+    "firebase_url": "https://informasigame-1fa47.firebaseio.com",
+    "project_id": "informasigame-1fa47",
+    "storage_bucket": "informasigame-1fa47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318376195419:android:850b8df90d888d168c567e",
+        "android_client_info": {
+          "package_name": "com.bocahkoding.igame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318376195419-ivrvoi9q1b7dt92kc36gmg376cu7tu3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6L5y7-sH_mSkyfPf6kwSYrNkwvTz7mD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318376195419-ivrvoi9q1b7dt92kc36gmg376cu7tu3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
